@@ -51,6 +51,6 @@ df.boxplot(column='HoursPerWeek', by='AgeGroup', ax=ax2)
 
 ax2.set_xlabel('Age Group')
 ax2.set_ylabel('Hours Per Week')
-ax2.set_facecolor("purple")
+ax2.set_facecolor("yellow")
 # Show the plot
 plt.show()
