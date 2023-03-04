@@ -4,7 +4,7 @@
 
 * This data set(linked below) is one of the newer Starcraft 2 data sets. Which is a game I quite enjoy playing and is easy to play but very hard to master.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/VLNzSRoGhtg)
 
 # Data Analysis Results
 
@@ -23,7 +23,6 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Matplotlib](https://matplotlib.org/stable/index.html)
 * [Data Set Used](https://www.kaggle.com/datasets/ayushnitb/starcraft-players-dataset)
 
