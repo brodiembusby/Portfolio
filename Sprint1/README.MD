@@ -1,6 +1,6 @@
 # Overview
 
-This intro program was the first of a couple two week sprints that I am trying to accomplish. I tried learning C++ while following along with a helpful video series.
+This intro program was the first of a couple two week sprints that I am trying to accomplish. I tried learning C++ while following along with a helpful video series. A lot of this is a learning experience and is more for me than others. A lot of this should not be considered my own but to show that I followed along during a two week period in understanding C++.
 
 This program is it's own game engine with its own functions for setting up a player, creating buffering, all while using the windows application.
 
